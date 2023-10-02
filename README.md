@@ -18,4 +18,16 @@ In this documentation, we will build this code from scratch. By the end of the d
 
 ### Congratulations! You've just used selenium and serverless webdriver on AWS Lambda! 
 
+### Discussion
+After data processing, the graph of visitors online / time for SuiYuanJu is here: 
+![alt text](https://github.com/b991/SuiYuanJuScraping/blob/main/SuiYuanJuGraph.png)
+
+This graph suggests that at midnight Chinese Standard Time, Sui Yuan Ju website gets the most amount of visitor. Therefore, the best time to publish/update your novel is after 8:00 pm and before midnight in Chinese Standard Time. 
+
+There are also more visitors in Summer (August) than in September, possibly due the start of shcool for students. 
+
+However, the difference between Aug and Sept visitors is much more drastic in Qing Hua Yu than Sui Yuan Ju. This signifies that a nontrivial amount of visitors to Sui Yuan Ju have stable internet access even when school starts. These visitors could be college students as well as professionals in the workforce.
+
+Details for data processing and method discussion can be found in [this](https://github.com/b991/SuiYuanJuScraping/blob/main/SuiYuanJuDataProcess.ipynb) Jupyter Notebook. 
+
 
