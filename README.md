@@ -26,7 +26,7 @@ This graph suggests that at midnight Chinese Standard Time, Sui Yuan Ju website 
 
 There are also more visitors in Summer (August) than in September, possibly due the start of shcool for students. 
 
-However, the difference between Aug and Sept visitors is much more drastic in Qing Hua Yu than Sui Yuan Ju. This signifies that a nontrivial amount of visitors to Sui Yuan Ju have stable internet access even when school starts. These visitors could be college students as well as professionals in the workforce.
+However, the difference between Aug and Sept visitors is much more drastic in Qing Hua Yu (link to see data analysis is [here](https://github.com/b991/QingHuaYuSraping)) than Sui Yuan Ju. This signifies that a nontrivial amount of visitors to Sui Yuan Ju have stable internet access even when school starts. These visitors could be college students as well as professionals in the workforce.
 
 Details for data processing and method discussion can be found in [this](https://github.com/b991/SuiYuanJuScraping/blob/main/SuiYuanJuDataProcess.ipynb) Jupyter Notebook. 
 
